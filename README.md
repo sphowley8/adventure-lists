@@ -26,6 +26,9 @@ This tool helps the user generate their packing list for various types of advent
   - Email List
     - Input: Final List, Email
     - Output: Status Message
+  - Randomize List
+    - Input: List, # of items to return
+    - Output: List 
 
 ### 3. Create python script with simple commandline I/O
   - Length of trip
