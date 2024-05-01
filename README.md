@@ -46,5 +46,12 @@ This tool helps the user generate their packing list for various types of advent
 
 ### Create Simple Web Interface
   - See https://www.reddit.com/r/learnpython/comments/15p79tj/what_free_service_is_there_to_use_for_sending/?rdt=35153
+        use msmtp with Gmail. Works great.
+
+        Also, in case you didn't know. All cell companies have a email to text server... Like YourPhone#@msg.verizon.com and you will get the body of the email as a text message.
+
+        My raspberry pi texts me all the time.
+
+        The Verizon address is made up . Google email to text and find your carriers requirements.
 
 ### 
