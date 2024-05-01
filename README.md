@@ -45,5 +45,6 @@ This tool helps the user generate their packing list for various types of advent
 ### Host on Lambda
 
 ### Create Simple Web Interface
+  - See https://www.reddit.com/r/learnpython/comments/15p79tj/what_free_service_is_there_to_use_for_sending/?rdt=35153
 
 ### 
