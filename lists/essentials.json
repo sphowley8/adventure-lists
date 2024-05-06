@@ -1,0 +1,5 @@
+{
+  "general": ["phone", "wallet", "keys", "aligner case", "sunscreen", "lip balm"],
+  "dog": ["leash", "poop bags", "bowl", "water"],
+  "camping": ["tooth brush", "deoderant", "trowel", "portable charger", "charging cords", "theragun"]
+}
